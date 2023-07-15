@@ -77,3 +77,64 @@
     width: 318px;
     height: 420px;
 }
+.feature-sec{
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.feature-items{
+    text-align: center;
+}
+.feature-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0px;
+}
+
+.feature-dec{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    padding: 0px  663px;
+}
+.all-flowers{
+    padding-top: 48px;
+    margin: 0px 240px;
+    display: flex;
+    justify-content: space-between;
+}
+.flower-img{
+    padding-bottom: 0;
+    width: 300px;
+    height: 418px;
+    margin: 120px 76px 0px 76px;
+}
+.flower-bg-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-bg-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.flower-bg-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.flower-title{
+
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
