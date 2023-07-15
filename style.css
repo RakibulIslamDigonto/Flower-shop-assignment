@@ -46,6 +46,83 @@
     width: 600px;
     height: 800px;
 }
+
+.feature-sec{
+    align-items: center;
+    margin-top: 178px;
+    /* justify-content: space-around; */
+}
+.feature-items{
+    text-align: center;
+}
+.feature-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0px;
+}
+
+.feature-dec{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    padding: 0px  663px;
+}
+.all-flowers{
+    padding-top: 48px;
+    margin: 0px 240px;
+    display: flex;
+    justify-content: space-between;
+}
+.flower-img{
+    padding-bottom: 0;
+    width: 300px;
+    height: 418px;
+    padding: 120px 76px 0px 76px;
+}
+.flower-bg-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-bg-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.flower-bg-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.flower-title{
+
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.support-sec{
+    display: flex;
+    align-items: center;
+    margin: 178px 240px;
+    padding: 0px 175px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 320px;
+    justify-content: space-between;
+}
+.support-item{
+    text-align: center;
+}
+
 .deal-sec{
     background: rgba(229, 84, 115, 0.10);
     align-items: center;
@@ -77,14 +154,17 @@
     width: 318px;
     height: 420px;
 }
-.feature-sec{
+
+/* social styel */
+
+.social-sec{
     align-items: center;
-    /* justify-content: space-around; */
+    margin-top: 178px;
 }
-.feature-items{
+.social-items{
     text-align: center;
 }
-.feature-title{
+.social-title{
     color: #272727;
     font-family: Lato;
     font-size: 40px;
@@ -92,49 +172,19 @@
     margin: 0px;
 }
 
-.feature-dec{
+.social-dec{
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
     font-size: 18px;
     padding: 0px  663px;
 }
-.all-flowers{
-    padding-top: 48px;
-    margin: 0px 240px;
+.social-flowers{
     display: flex;
     justify-content: space-between;
+    padding: 48px 240px 128px 240px;
 }
-.flower-img{
-    padding-bottom: 0;
-    width: 300px;
-    height: 418px;
-    margin: 120px 76px 0px 76px;
+.social-flower-img{
+    width: 342px;
+    height: 396px;
 }
-.flower-bg-1{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-}
-.flower-bg-2{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
-}
-.flower-bg-3{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);
-}
-.flower-title{
 
-color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 24px;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-}
