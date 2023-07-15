@@ -18,7 +18,7 @@
 .header-heading{
     color: #272727;
     font-family: Lato;
-    font-size: 73px;
+    font-size: 80px;
     font-weight: 800;
 }
 
@@ -235,7 +235,7 @@ text-decoration-line: underline;
 }
 
 .footer-sec{
-    margin-top: 128px;
+    /* margin-top: 128px; */
     width: 1922px;
     height: 449px;
     color: #FFF;
