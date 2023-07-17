@@ -4,6 +4,8 @@
     padding: 0px;
     margin: 0px;
 }
+
+/* header style */
 .header-sec{
     background: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -46,6 +48,8 @@
     width: 420px;
     height: 700px;
 }
+
+/* feature style */
 .feature-sec{
     align-items: center;
     margin-top: 128px;
@@ -109,6 +113,7 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+/* support style */
 .support-sec{
     display: flex;
     align-items: center;
@@ -122,7 +127,7 @@ text-decoration-line: underline;
 .support-item{
     text-align: center;
 }
-
+/* deal style */
 .deal-sec{
     background: rgba(229, 84, 115, 0.05);
 
@@ -156,8 +161,7 @@ text-decoration-line: underline;
     height: 420px;
 }
 
-/* social styel */
-
+/* social style */
 .social-sec{
     align-items: center;
     margin-top: 128px;
@@ -192,7 +196,7 @@ text-decoration-line: underline;
     margin: 5px;
 }
 
-/* pur partner */
+/* partner style */
 .partner-sec{
     align-items: center;
     margin-top: 128px;
@@ -224,7 +228,7 @@ text-decoration-line: underline;
     margin-right: 150px;
     /* padding: 48px 130px 128px 150px; */
 }
-.partner-flower-img{
+.partner-img{
     padding-top: 3px;
     width: 380px;
     margin: 5px;
