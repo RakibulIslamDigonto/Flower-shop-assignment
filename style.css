@@ -192,6 +192,44 @@ text-decoration-line: underline;
     margin: 5px;
 }
 
+/* pur partner */
+.partner-sec{
+    align-items: center;
+    margin-top: 128px;
+}
+.partner-items{
+    text-align: center;
+
+}
+.partner-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0px;
+}
+
+.partner-dec{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    padding: 0px  450px;
+    
+}
+.partner-details{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    margin-left: 150px;
+    margin-right: 150px;
+    /* padding: 48px 130px 128px 150px; */
+}
+.partner-flower-img{
+    padding-top: 3px;
+    width: 380px;
+    margin: 5px;
+}
+
 /* latest deal sec */
 .latest-deal{
     align-items: center;
